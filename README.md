@@ -52,7 +52,7 @@ En esta nueva etapa busco perfeccionarme como **Desarrollador Backend o Full Sta
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-fernando-aliano-20599b51)  
+- 💼 [LinkedIn]www.linkedin.com/in/pabloaliano
 - 📧 pabloaliano@gmail.com  
 
 ---
